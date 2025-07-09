@@ -1,0 +1,9 @@
+{
+	"name": "adf-databricks-course-egarnica",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc08f0f2-21ae-41e4-8462-aeddb26df485",
+		"tenantId": "120652e2-96ba-4965-8864-984f9fb277e0"
+	}
+}
